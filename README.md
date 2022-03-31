@@ -1,2 +1,3 @@
 # MIAIN
-一种基于CNN的光场超分辨方法,只提供模型demo，数据集和训练代码可参考[BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR)。
+A CNN-based light field super-resolution method, only the basic model is provided here, the dataset and training code can be referred to [BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR)。<br>
+I sincerely thank [YingqianWang](https://github.com/YingqianWang)、[ZhengyuLiang](https://github.com/ZhengyuLiang24) for answering my questions and sharing their code 。
